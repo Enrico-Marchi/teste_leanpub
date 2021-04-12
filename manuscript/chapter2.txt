@@ -2,6 +2,8 @@
 
 Here are some quick Markdown examples to get you started.
 
+Agora é o Enricao escrevendo aqui, para testar essa doidera!
+
 To start a new paragraph, hit the return key twice. You want to create a blank line between paragraphs.
 
 To *italicize*, surround a word in asterisks.
